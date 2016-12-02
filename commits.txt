@@ -1,0 +1,11 @@
+commit 6364f39f4fec364602ef6ff7f8d468448fa97b43
+Author: Rolando <rolandoaburto7@gmail.com>
+Date:   Fri Dec 2 14:15:32 2016 -0300
+
+    Modificamos atributos_metodos
+
+commit 2b2b2b80d26d77567ff50688163b44ba56e2e41b
+Author: Rolando <rolandoaburto7@gmail.com>
+Date:   Fri Dec 2 14:13:07 2016 -0300
+
+    Añadi archivos py
