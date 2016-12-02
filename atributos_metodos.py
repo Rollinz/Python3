@@ -3,7 +3,7 @@ class Lapiz:
 	color = 'Amarillo'
 	contiene_borrador = False
 	usa_grafito = True
-
+	pasta = False
 	#Metodos
 	def dibujar(self):
 		print('El lapiz esta dibujando')
