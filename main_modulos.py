@@ -1,4 +1,4 @@
-b#import modulos
+#import modulos
 from modulos import sustraccion as resta #renombrar la funcion
 from modulos import adicion
 from modulos import __name__ as __name__modulo__
